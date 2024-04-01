@@ -30,8 +30,8 @@ Then we change the background color:
 
 ## Icons
 To change the icons:
-1. Download the `icons` folder
-2. Copy all of the contents of the folder
+1. Download the `icons` zip file
+2. Unzip it and copy all of the contents of the folder
 3. Got to `C:\Program Files\Xournal++\share\xournalpp\ui\iconsColor-dark\hicolor\scalable\actions`
 4. Paste the contents
 
